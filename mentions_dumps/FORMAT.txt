@@ -1,0 +1,10 @@
+** Training data has the following format
+
+Wikipedia_id Entity Mention
+
+Wikipedia_id is never used in the experiments. You can set a dummy value to that field.
+
+
+** Dev and test data has the following format
+
+Entity Mention Query_Type

@@ -1,0 +1,63 @@
+name: pti
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - ca-certificates=2020.6.24=0
+  - certifi=2020.6.20=py37_0
+  - libedit=3.1.20191231=h14c3975_1
+  - libffi=3.2.1=hd88cf55_4
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.2=he6710b0_1
+  - openssl=1.1.1g=h7b6447c_0
+  - pip=20.1.1=py37_1
+  - python=3.7.4=h265db76_1
+  - readline=7.0=h7b6447c_5
+  - setuptools=49.2.0=py37_0
+  - sqlite=3.32.3=h62c20be_0
+  - tk=8.6.10=hbc83047_0
+  - wheel=0.34.2=py37_0
+  - xz=5.2.5=h7b6447c_0
+  - zlib=1.2.11=h7b6447c_3
+  - pip:
+    - backcall==0.2.0
+    - chardet==3.0.4
+    - click==7.1.2
+    - decorator==4.4.2
+    - gast==0.2.2
+    - h5py==2.10.0
+    - idna==2.10
+    - ipython==7.16.1
+    - ipython-genutils==0.2.0
+    - jedi==0.17.2
+    - joblib==0.16.0
+    - keras==2.4.3
+    - nltk==3.5
+    - numpy==1.19.1
+    - parso==0.7.0
+    - pexpect==4.8.0
+    - pickleshare==0.7.5
+    - prompt-toolkit==3.0.5
+    - ptyprocess==0.6.0
+    - pygments==2.6.1
+    - pyyaml==5.3.1
+    - regex==2020.7.14
+    - requests==2.24.0
+    - scikit-learn==0.23.1
+    - scipy==1.4.1
+    - six==1.15.0
+    - sklearn==0.0
+    - tensorboard==2.1.1
+    - tensorflow==2.1.0
+    - tensorflow-estimator==2.1.0
+    - tensorflow-gpu==2.1.0
+    - threadpoolctl==2.1.0
+    - tqdm==4.48.0
+    - traitlets==4.3.3
+    - urllib3==1.25.9
+    - wcwidth==0.2.5
+    - werkzeug==1.0.1
+    - wrapt==1.12.1
+prefix: ~/anaconda3/envs/pti
+
